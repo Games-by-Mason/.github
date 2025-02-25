@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey, I’m @masonremaley!
+Hey, I’m Mason!
 
 I’m an independent game developer, and a board member on the Zig Software Foundation.
 
